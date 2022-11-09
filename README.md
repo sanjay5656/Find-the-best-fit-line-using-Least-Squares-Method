@@ -68,9 +68,9 @@ plt.show()
 ```
 
 ## Output:
-![ml op 1](https://user-images.githubusercontent.com/115128955/198329653-aead564e-3cc4-4205-bde1-4a63113752e0.png)
-![ml op 2](https://user-images.githubusercontent.com/115128955/198329838-1bb55b2b-4b7d-4c53-ad35-7373e19adf09.png)
-
+![ml op 1](op1.png)
+![ml op 2](op2.png)
+![ml op 2](op3.png)
 
 
 ## Result:
