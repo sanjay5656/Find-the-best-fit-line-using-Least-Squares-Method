@@ -70,7 +70,7 @@ plt.show()
 ## Output:
 ![ml op 1](op1.png)
 ![ml op 2](op2.png)
-![ml op 2](op3.png)
+![ml op 3](op3.png)
 
 
 ## Result:
